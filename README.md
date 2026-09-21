@@ -1,4 +1,4 @@
-# -# 再讲一遍 · Say Again
+# -# 再讲一遍 · Say Again 在GPT上vibe coding的，没有在google AI Studio
 
 > 关于那天，让文字再讲一遍。
 
